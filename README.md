@@ -1,4 +1,12 @@
 # DIVFusion
+
+<p align="center">
+  <a href="https://esi.help.clarivate.com/Content/overview.htm"><img src="https://img.shields.io/badge/ESI_Hot_Paper-Top_0.1%25-E85D3F?style=for-the-badge" alt="ESI Hot Paper (top 0.1%)"></a>
+  <a href="https://esi.help.clarivate.com/Content/overview.htm"><img src="https://img.shields.io/badge/ESI_Highly_Cited_Paper-Top_1%25-2F6FB0?style=for-the-badge" alt="ESI Highly Cited Paper (top 1%)"></a>
+  <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PyRqpAsAAAAJ&citation_for_view=PyRqpAsAAAAJ:W7OEmFMy1ooC"><img src="https://img.shields.io/badge/Google_Scholar_Citations-546-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar citations"></a>
+</p>
+<p align="center"><sub>Google Scholar citation count updated July 18, 2026.</sub></p>
+
 DIVFusion: Darkness-free infrared and visible image fusion  (*^▽^*)
 
 This is official Tensorflow implementation of "[DIVFusion: Darkness-free infrared and visible image fusion](https://www.sciencedirect.com/science/article/pii/S156625352200210X?via%3Dihub)"
