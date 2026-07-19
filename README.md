@@ -1,15 +1,9 @@
-# DIVFusion
+<h1 align="center"><a href="https://www.sciencedirect.com/science/article/pii/S156625352200210X">DIVFusion: Darkness-free Infrared and Visible Image Fusion</a></h1>
 
-<p align="center">
-  <a href="https://esi.help.clarivate.com/Content/overview.htm"><img src="https://img.shields.io/badge/ESI_Hot_Paper-Top_0.1%25-E85D3F?style=for-the-badge" alt="ESI Hot Paper (top 0.1%)"></a>
-  <a href="https://esi.help.clarivate.com/Content/overview.htm"><img src="https://img.shields.io/badge/ESI_Highly_Cited_Paper-Top_1%25-2F6FB0?style=for-the-badge" alt="ESI Highly Cited Paper (top 1%)"></a>
-  <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PyRqpAsAAAAJ&citation_for_view=PyRqpAsAAAAJ:W7OEmFMy1ooC"><img src="https://img.shields.io/badge/Google_Scholar_Citations-546-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar citations"></a>
-</p>
-<p align="center"><sub>Google Scholar citation count updated July 18, 2026.</sub></p>
-
-DIVFusion: Darkness-free infrared and visible image fusion  (*^▽^*)
-
-This is official Tensorflow implementation of "[DIVFusion: Darkness-free infrared and visible image fusion](https://www.sciencedirect.com/science/article/pii/S156625352200210X?via%3Dihub)"
+<p align="center"><a href="https://github.com/Linfeng-Tang">Linfeng Tang</a>&emsp; Xinyu Xiang&emsp; Hao Zhang&emsp; Meiqi Gong&emsp; <a href="https://sites.google.com/site/jiayima2013">Jiayi Ma</a></p>
+<p align="center"><strong>Wuhan University</strong></p>
+<p align="center"><strong>Information Fusion</strong> &middot; 2023</p>
+<p align="center"><a href="https://esi.help.clarivate.com/Content/overview.htm"><img src="https://img.shields.io/badge/%F0%9F%94%A5_ESI_Hot-Top_0.1%25-E85D3F?style=flat-square" alt="ESI Hot Paper (top 0.1%)"></a> <a href="https://esi.help.clarivate.com/Content/overview.htm"><img src="https://img.shields.io/badge/%F0%9F%8F%86_ESI_Highly_Cited-Top_1%25-D4A017?style=flat-square" alt="ESI Highly Cited Paper (top 1%)"></a><br><sub><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PyRqpAsAAAAJ&citation_for_view=PyRqpAsAAAAJ:W7OEmFMy1ooC">Google Scholar &middot; <strong>546 citations</strong></a> &middot; updated July 18, 2026</sub></p>
 
 ## Framework
 ![The overall framework of the proposed DIVFusion algorithm.](https://github.com/Xinyu-Xiang/DIVFusion/blob/main/Figure/Framework.png)
